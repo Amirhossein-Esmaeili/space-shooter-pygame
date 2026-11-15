@@ -1,4 +1,4 @@
-# Space Shooter
+# Space Shooter | Python & Pygame Arcade Game
 
 ## Introduction
 
